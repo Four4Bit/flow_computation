@@ -1,0 +1,4 @@
+LIBRARY "flow_computation"
+EXPORTS
+release_kkk @1
+calulateFlow_kkk @2
